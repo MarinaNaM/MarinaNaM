@@ -50,6 +50,6 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarinaNaM&show_icons=true&locale=en" alt="MarinaNaM" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarinaNaM&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarinaNaM&show_icons=true&locale=en&count_private=true&theme=buefy" alt="MarinaNaM" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarinaNaM&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
  </p>
